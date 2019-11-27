@@ -33,7 +33,6 @@ func main() {
     
     for r := arrl / 2 - 1; r >= 0; r -= 1 {
         maxheap(arr, r)
-        
     }
     
     fmt.Printf("----------\n")
